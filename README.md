@@ -10,8 +10,7 @@ npm run dev
 ## Usage
 
 - Run project
-- Sign in with GitHub
-- Find any github profile
+- Change house map templates
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
